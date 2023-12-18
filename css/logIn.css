@@ -1,0 +1,14 @@
+body{
+    background: linear-gradient(135deg, #153677, #4e085f);
+    height: 100vh;
+}
+
+input {
+    width: 100%;
+    padding: 0.8vw 1vw !important;
+    border-radius: 0.6vw;
+}
+
+.c-unerline{
+    text-decoration: underline;
+}

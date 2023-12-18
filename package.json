@@ -1,0 +1,24 @@
+{
+  "name": "spacemanagementproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scanTailwind": "npx tailwindcss -i ./src/css/config.css -o ./src/css/styles.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ivan1Perez/SpaceManagementProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ivan1Perez/SpaceManagementProject/issues"
+  },
+  "homepage": "https://github.com/Ivan1Perez/SpaceManagementProject#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.6"
+  }
+}
